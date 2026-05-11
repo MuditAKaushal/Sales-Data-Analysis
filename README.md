@@ -4,7 +4,7 @@ This is a end to end Power Bi project for Electro Hub Store Data Analysis.
 
 OBJECTIVE --
 
-To analyze the "Store Sales Dataset  to uncover Top selling  products, and sales trends across various cities and times of day. This analysis aims to provide actionable insights to enhance business strategies, optimize inventory management, and improve targeted marketing efforts.\
+To analyze the "Electro Hub Store Sales Dataset  to uncover Top selling  products, and sales trends across various cities and times of day. This analysis aims to provide actionable insights to enhance business strategies, optimize inventory management, and improve targeted marketing efforts.\
 
 QUESTIONS --
 
