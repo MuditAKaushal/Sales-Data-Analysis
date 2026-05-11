@@ -2,11 +2,11 @@
 
 This is a end to end Power Bi project for Electro Hub Store Data Analysis.
 
-OBJECTIVE --
+# OBJECTIVE --
 
 To analyze the "Electro Hub Store Sales Dataset  to uncover Top selling  products, and sales trends across various cities and times of day. This analysis aims to provide actionable insights to enhance business strategies, optimize inventory management, and improve targeted marketing efforts.\
 
-QUESTIONS --
+# QUESTIONS --
 
 1) Top/Bottom 5 product by Sales/Profit/Quantity Sold.
 2) How do sales trends vary over time (daily, monthly, quarterly, annually) ?
@@ -17,10 +17,13 @@ QUESTIONS --
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)?
 8) Show sales by different cities.
 
+# Preview Dashboard-
+<img width="1302" height="727" alt="Screenshot 2026-05-11 183256" src="https://github.com/user-attachments/assets/09563e0a-7456-49b4-9ef2-d831155b6ff6" />
+<img width="1284" height="726" alt="Screenshot 2026-05-11 183331" src="https://github.com/user-attachments/assets/8abe4d96-4017-48dc-a007-41f3564d6404" />
 
-![image alt] (https://github.com/MuditAKaushal/Sales-Data-Analysis/blob/dbe14311d0ffc30f54ab9c69440a63bc2496aca1/Screenshot%202026-05-11%20183256.png)
 
-APPROACH --
+
+# APPROACH --
 
 1--Use Excel for initial data cleaning, exploratory analysis, and segmentation.
 
