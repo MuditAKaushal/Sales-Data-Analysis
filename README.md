@@ -17,16 +17,18 @@ To analyze the "Electro Hub Store Sales Dataset  to uncover Top selling  product
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)?
 8) Show sales by different cities.
 
-# Preview Dashboard-
+# Power BI Dashboard 1-
 <img width="1302" height="727" alt="Screenshot 2026-05-11 183256" src="https://github.com/user-attachments/assets/09563e0a-7456-49b4-9ef2-d831155b6ff6" />
+
+# Power BI Dashboard 2-
 <img width="1284" height="726" alt="Screenshot 2026-05-11 183331" src="https://github.com/user-attachments/assets/8abe4d96-4017-48dc-a007-41f3564d6404" />
 
 
 
 # APPROACH --
 
-1--Use Excel for initial data cleaning, exploratory analysis, and segmentation.
+Use Excel for initial data cleaning, exploratory analysis, and segmentation.
 
-2--Leverage Power BI to create interactive dashboards that visualize key sales metrics.
+Leverage Power BI to create interactive dashboards that visualize key sales metrics.
 
-3--Identify and present key insights to stakeholders for informed decision-making
+Identify and present key insights to stakeholders for informed decision-making
