@@ -17,6 +17,9 @@ QUESTIONS --
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)?
 8) Show sales by different cities.
 
+
+![image alt] (https://github.com/MuditAKaushal/Sales-Data-Analysis/blob/dbe14311d0ffc30f54ab9c69440a63bc2496aca1/Screenshot%202026-05-11%20183256.png)
+
 APPROACH --
 
 1--Use Excel for initial data cleaning, exploratory analysis, and segmentation.
