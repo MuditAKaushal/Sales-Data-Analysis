@@ -19,6 +19,8 @@ QUESTIONS --
 
 APPROACH --
 
-Use Excel for initial data cleaning, exploratory analysis, and segmentation.
-Leverage Power BI to create interactive dashboards that visualize key sales metrics.
-Identify and present key insights to stakeholders for informed decision-making
+1--Use Excel for initial data cleaning, exploratory analysis, and segmentation.
+
+2--Leverage Power BI to create interactive dashboards that visualize key sales metrics.
+
+3--Identify and present key insights to stakeholders for informed decision-making
